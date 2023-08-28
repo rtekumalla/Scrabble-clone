@@ -2,7 +2,7 @@
 
 Detailed Description: 
 
-Design and implement a digital version of the popular board game "Scrabble." The game challenges players to create words using letter tiles on a game board, each tile having a specific point value. This project will allow you to apply programming concepts from CS161/162 while building a fun and educational word game.
+Design and implement a digital version of the popular board game "Scrabble." The game challenges players to create words using letter tiles on a game board, each tile having a specific point value.
 
 
 TO DO: 
